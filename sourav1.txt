@@ -1,3 +1,0 @@
-This is done on the issue1 branch.
-Second line.
-
